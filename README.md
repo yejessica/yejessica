@@ -13,7 +13,7 @@ I'm interested in opportunities in software development, UI/UX design, and AI de
 
 #### 🌟 **Previously I...**
 - Founded the first high school pitch & idea-thon competition ([InnovateTJ](https://innovatetj.org))
-- Invested at [Textbook Ventures](textbook.vc)
+- Invested at [Textbook Ventures](https://www.textbook.vc/)
 - Consulted for Fortune 500 companies at JUV Consulting
 - Created a financial literacy curriculum reaching over 20,000 students
 - Oversaw strategic partnerships & finance at Dear Asian Youth
