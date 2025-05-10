@@ -5,21 +5,22 @@ I'm currently studying Computer Science, Math, and Sociology at Barnard College 
 I'm interested in opportunities in software development, UI/UX design, and AI development.
 
 #### ✨ **I’m currently...**
-- Building automated data labeling & synthetic data generation
-- Investing and researching at [Textbook Ventures](textbook.vc)
+- Building agentic design tools for better A/B testing
 - Formulating financial and strategic partnerships at [Climate Cardinals](https://www.climatecardinals.org/)
 - Planning dinners with strangers to create unlikely friendships
+- Engineering at Amazon (Summer 2025!)
 
 
 #### 🌟 **Previously I...**
 - Founded the first high school pitch & idea-thon competition ([InnovateTJ](https://innovatetj.org))
+- Invested at [Textbook Ventures](textbook.vc)
 - Consulted for Fortune 500 companies at JUV Consulting
 - Created a financial literacy curriculum reaching over 20,000 students
 - Oversaw strategic partnerships & finance at Dear Asian Youth
 
 #### 🛠️ **My toolbox...**
 - **Programming Languages:** Python, Java, C, C#, C++, SQL, R, HTML/CSS/JavaScript, SASS
-- **Programming Frameworks & Libraries:** React Native, Node.JS, Express.JS, Bootstrap, NumPy, Matplotlib, .NET, Flask
+- **Programming Frameworks & Libraries:** React, Next.JS, Node.JS, Express.JS, Bootstrap, NumPy, Matplotlib, .NET, Flask, Tailwind CSS
 - **Other:** Git, Bash, R-Studio, VSCode, Windows, macOS, Microsoft Office, Jupyter Notebook
 
 
