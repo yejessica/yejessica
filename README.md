@@ -2,9 +2,10 @@
 
 I'm currently studying Computer Science and Sociology at Barnard College of Columbia University. I'm passionate about building new technologies to better understand and improve our future, especially within the realms of artificial intelligence, climate change, and social justice.
 
-**Currently:** Engineering at Datadog (Winter 2026)
+**Currently:** Engineering at Harvey (Developer Platform)
 
 **Previously:**
+- Engineering at Datadog (Winter 2026)
 - Engineering at Amazon (Summer 2025)
 - Operations & Strategy at [July](https://withjuly.com/)
 - Founded the first high school pitch & idea-thon competition ([InnovateTJ](https://innovatetj.org))
